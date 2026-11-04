@@ -1,6 +1,6 @@
 <div align="center">
-# ¡Hola, soy Carlota! 👋
-<p><b>Estudiante de DAW | Criminóloga especialista en ciberdelincuencia | Apasionada del desarrollo de software</b></p> 
+  ##¡Hola, soy Carlota! 👋
+  <p><b>Estudiante de DAW | Criminóloga especialista en ciberdelincuencia | Apasionada del desarrollo de software</b></p> 
 </div>
 
 ---
