@@ -1,5 +1,5 @@
 # ¡Hola, soy Carlota! 👋
----
+
 Estudiante de DAW | Criminóloga especialista en ciberdelincuencia | Apasionada del desarrollo de software
 ---
 ❓Sobre mí
