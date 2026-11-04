@@ -40,7 +40,6 @@ Me apasiona construir soluciones de software limpias, seguras y estructuradas, u
 ## 📫 Conecta conmigo
 
 * **GitHub:** [@carlotalosada]([https://github.com/tu-usuario](https://github.com/carlotalosada))
-* **Enfoque profesional:** Desarrollo web full-stack, ciberdelincuencia y optimización de software.
 
 <!--
 **carlotalosada/carlotalosada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
