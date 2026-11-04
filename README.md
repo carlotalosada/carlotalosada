@@ -1,7 +1,7 @@
+<div align="center">
 # ¡Hola, soy Carlota! 👋
-
-<p style="text-align:center;">Estudiante de DAW | Criminóloga especialista en ciberdelincuencia | Apasionada del desarrollo de software</p>
-
+<p><b>Estudiante de DAW | Criminóloga especialista en ciberdelincuencia | Apasionada del desarrollo de software</b></p> 
+</div>
 ---
 ❓Sobre mí
 Perfil en evolución técnica. Soy estudiante del Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web (DAW)** en la Universitat Oberta de Catalunya (UOC).
