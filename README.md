@@ -5,7 +5,7 @@
 
 ---
 ❓Sobre mí
-Perfil en evolución técnica. Soy estudiante del Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web (DAW)** en la Universitat Oberta de Catalunya (UOC).
+Perfil en evolución técnica. Soy estudiante del Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web (DAW)**.
 Cuento con una sólida formación previa en **Criminología y Ciberdelincuencia**, y experiencia profesional previa en gestión de datos, optimización de procesos y soporte corporativo. 
 
 Me apasiona construir soluciones de software limpias, seguras y estructuradas, uniendo la ingeniería de desarrollo con el análisis analítico y de seguridad.
